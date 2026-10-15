@@ -1,0 +1,108 @@
+{
+  "competitor": {
+    "id": "marsh-mclennan",
+    "name": "Marsh McLennan",
+    "ticker": "MMC",
+    "description": "Global professional services firm specializing in risk, strategy, and people, operating Marsh, Guy Carpenter, Mercer, and Oliver Wyman.",
+    "website": "https://www.marshmclennan.com",
+    "headquarters": "New York, NY",
+    "market_cap_tier": "Mega-Cap"
+  },
+  "items": [
+    {
+      "title": "Marsh McLennan Agency Acquires Regional P&C Brokerage Graham-Naylor",
+      "tag": "M&A",
+      "date": "2026-09-22",
+      "summary": "Marsh McLennan Agency (MMA) expanded middle-market capabilities in the Southeast by acquiring Graham-Naylor Insurance, adding $28M in annual commercial lines revenue.",
+      "source_url": "https://www.marshmclennan.com/news.html",
+      "impact_score": 4,
+      "is_sample": true
+    },
+    {
+      "title": "Marsh Launches AI-Powered Cyber Risk Quantifier for Middle Market",
+      "tag": "Product",
+      "date": "2026-08-14",
+      "summary": "Introduced Cyber Pulse, an underwriting analytics tool evaluating ransom vulnerabilities and expected claims loss distributions for mid-sized commercial clients.",
+      "source_url": "https://www.marshmclennan.com/insights.html",
+      "impact_score": 4,
+      "is_sample": true
+    },
+    {
+      "title": "Marsh Appoints Sarah Jenkins as Head of North American Commercial Lines",
+      "tag": "Leadership",
+      "date": "2026-07-03",
+      "summary": "Former Aon executive Sarah Jenkins joins Marsh to accelerate carrier syndication and streamline mid-market broker production across US regions.",
+      "source_url": "https://en.wikipedia.org/wiki/Marsh_McLennan",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "MMA Acquires Great Lakes Employee Benefits Advisory",
+      "tag": "M&A",
+      "date": "2026-05-18",
+      "summary": "MMA bolsters Midwest employee benefits group with acquisition of Cleveland-based advisory firm servicing 450 corporate employer groups.",
+      "source_url": "https://www.marshmclennan.com",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "Commercial Property Rate Benchmark Index Indicates Firming Renewals",
+      "tag": "Pricing",
+      "date": "2026-03-12",
+      "summary": "Marsh's quarterly pricing report reported average commercial property rate increases of 6.2%, advising clients to implement parametric disaster riders.",
+      "source_url": "https://www.marsh.com",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "MMA Closes Deal for Pacific Northwest Construction Risk Specialist",
+      "tag": "M&A",
+      "date": "2025-11-10",
+      "summary": "MMA completed purchase of Cascade Risk Partners, adding surety bond specialization and captive management for infrastructure contractors.",
+      "source_url": "https://en.wikipedia.org/wiki/Marsh_McLennan#History",
+      "impact_score": 4,
+      "is_sample": true
+    }
+  ],
+  "battlecard_template": {
+    "headline": "Aggressive Middle-Market Expansion via Serial MMA Tuck-Ins",
+    "subtext": "Marsh McLennan leverages MMA's regional brand rollups combined with Guy Carpenter reinsurance clout to squeeze independent brokers on middle-market renewals.",
+    "wins": [
+      {
+        "title": "Local High-Touch Broker Responsiveness",
+        "text": "Position our nimble, local dedicated account management against Marsh's tiered service desks where middle-market accounts are routed to centralized remote hubs.",
+        "source_url": "https://www.marshmclennan.com/news.html"
+      },
+      {
+        "title": "Transparent Broker Fee Architecture",
+        "text": "Highlight our clear, flat-fee advisory model against MMC's layered commission structures and contingent market service agreements.",
+        "source_url": "https://www.marshmclennan.com/insights.html"
+      },
+      {
+        "title": "Specialty Underwriting Agility",
+        "text": "Leverage our regional E&S carrier relationships to deliver faster quote turnarounds on complex property and casualty risks.",
+        "source_url": "https://en.wikipedia.org/wiki/Marsh_McLennan"
+      }
+    ],
+    "moves": [
+      {
+        "tag": "M&A",
+        "summary": "Marsh McLennan Agency acquired Southeast regional broker Graham-Naylor Insurance.",
+        "date": "2026-09-22",
+        "source_url": "https://www.marshmclennan.com/news.html"
+      },
+      {
+        "tag": "Product",
+        "summary": "Rolled out Cyber Pulse analytics tool evaluating ransomware exposure for mid-market accounts.",
+        "date": "2026-08-14",
+        "source_url": "https://www.marshmclennan.com/insights.html"
+      },
+      {
+        "tag": "Leadership",
+        "summary": "Appointed Sarah Jenkins to oversee North American commercial property and casualty operations.",
+        "date": "2026-07-03",
+        "source_url": "https://en.wikipedia.org/wiki/Marsh_McLennan"
+      }
+    ]
+  }
+}

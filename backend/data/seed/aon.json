@@ -1,0 +1,99 @@
+{
+  "competitor": {
+    "id": "aon",
+    "name": "Aon",
+    "ticker": "AON",
+    "description": "Leading global professional services firm providing a broad range of risk, retirement, and health solutions.",
+    "website": "https://www.aon.com",
+    "headquarters": "Dublin, Ireland",
+    "market_cap_tier": "Large-Cap"
+  },
+  "items": [
+    {
+      "title": "Aon Accelerates NFP Integration Across Middle-Market P&C Accounts",
+      "tag": "M&A",
+      "date": "2026-09-15",
+      "summary": "Aon completed Phase II integration of NFP's retail brokerage networks, deploying proprietary Risk Analyzer software to 12,000 mid-sized accounts.",
+      "source_url": "https://aon.mediaroom.com",
+      "impact_score": 5,
+      "is_sample": true
+    },
+    {
+      "title": "Aon Unveils Climate Risk Financial Impact Assessment Platform",
+      "tag": "Product",
+      "date": "2026-08-02",
+      "summary": "Launched Climate Analytics Studio offering scenario simulations for hurricane surge and wildfire risk exposure to commercial property policyholders.",
+      "source_url": "https://en.wikipedia.org/wiki/Aon_(company)",
+      "impact_score": 4,
+      "is_sample": true
+    },
+    {
+      "title": "Aon Leadership Reorganizes Commercial Risk Solutions Under Single P&L",
+      "tag": "Leadership",
+      "date": "2026-06-19",
+      "summary": "Unified enterprise risk and mid-market commercial brokerage under Eric Andersen to streamline carrier negotiations and capacity agreements.",
+      "source_url": "https://www.aon.com/en/capabilities/property-casualty",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "Aon P&C Pricing Survey Highlights D&O Softening and Excess Liability Pressure",
+      "tag": "Pricing",
+      "date": "2026-04-28",
+      "summary": "Published quarterly pricing insights reporting 8.5% decreases in public D&O rates, offset by 11% spikes in commercial auto and umbrella liability.",
+      "source_url": "https://www.aon.com",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "Aon Acquires Specialized Logistics & Cargo Brokerage Navis Marine",
+      "tag": "M&A",
+      "date": "2026-02-14",
+      "summary": "Expanded maritime supply chain risk practice with acquisition of Gulf Coast specialty marine intermediary Navis Marine.",
+      "source_url": "https://en.wikipedia.org/wiki/Aon_(company)#History",
+      "impact_score": 3,
+      "is_sample": true
+    }
+  ],
+  "battlecard_template": {
+    "headline": "Enterprise Analytics Push Targeting High-Value Mid-Market Accounts",
+    "subtext": "Following the NFP transaction, Aon is pairing sophisticated predictive modeling tools with regional producers to win mid-market commercial accounts.",
+    "wins": [
+      {
+        "title": "Dedicated Senior Practitioner Attention",
+        "text": "Pitch against Aon's junior account executive rotation by promising sustained direct access to senior brokerage principals.",
+        "source_url": "https://aon.mediaroom.com"
+      },
+      {
+        "title": "Practical Actionable Risk Engineering",
+        "text": "Provide pragmatic, hands-on safety loss control rather than overwhelming client CFOs with dense, theoretical statistical modeling software.",
+        "source_url": "https://en.wikipedia.org/wiki/Aon_(company)"
+      },
+      {
+        "title": "Independent Regional Carrier Access",
+        "text": "Emphasize our access to regional mutuals and specialty carriers that Aon's national placement desk frequently overlooks.",
+        "source_url": "https://www.aon.com/en/capabilities/property-casualty"
+      }
+    ],
+    "moves": [
+      {
+        "tag": "M&A",
+        "summary": "Completed Phase II rollout of NFP network integration with proprietary Risk Analyzer software.",
+        "date": "2026-09-15",
+        "source_url": "https://aon.mediaroom.com"
+      },
+      {
+        "tag": "Product",
+        "summary": "Unveiled Climate Analytics Studio to simulate physical climate risk and hurricane exposures.",
+        "date": "2026-08-02",
+        "source_url": "https://en.wikipedia.org/wiki/Aon_(company)"
+      },
+      {
+        "tag": "Leadership",
+        "summary": "Unified Commercial Risk Solutions under executive director Eric Andersen.",
+        "date": "2026-06-19",
+        "source_url": "https://www.aon.com/en/capabilities/property-casualty"
+      }
+    ]
+  }
+}

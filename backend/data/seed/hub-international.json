@@ -1,0 +1,99 @@
+{
+  "competitor": {
+    "id": "hub-international",
+    "name": "Hub International",
+    "ticker": null,
+    "description": "Leading full-service global insurance broker and financial services firm providing risk management, employee benefits, and personal lines.",
+    "website": "https://www.hubinternational.com",
+    "headquarters": "Chicago, IL",
+    "market_cap_tier": "Private"
+  },
+  "items": [
+    {
+      "title": "Hub International Acquires Western Transportation Risk Specialist",
+      "tag": "M&A",
+      "date": "2026-09-29",
+      "summary": "Hub expanded its national Transportation Practice with the acquisition of MilePost Fleet Insurance, serving 1,100 long-haul and regional trucking fleets.",
+      "source_url": "https://www.hubinternational.com/blog/",
+      "impact_score": 4,
+      "is_sample": true
+    },
+    {
+      "title": "Hub Launches Proprietary VIU Digital Personal Lines Platform Expansion",
+      "tag": "Product",
+      "date": "2026-08-25",
+      "summary": "Expanded VIU by HUB omni-channel personal lines brokerage into commercial small-business auto and BOP insurance.",
+      "source_url": "https://www.hubinternational.com/products/business-insurance/",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "Hub International Appoints Chief Technology Officer to Lead AI Automation",
+      "tag": "Leadership",
+      "date": "2026-07-11",
+      "summary": "Named Elena Rostova as Executive VP and Chief Information Officer to accelerate quote automation and broker workflow digitization.",
+      "source_url": "https://en.wikipedia.org/wiki/Hub_International",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "Hub Commercial Rate Monitor Reports Continued Commercial Auto Escalation",
+      "tag": "Pricing",
+      "date": "2026-05-19",
+      "summary": "Hub's risk research division tracked 12.4% rate increases on heavy vehicle fleet policies due to social inflation and litigation costs.",
+      "source_url": "https://www.hubinternational.com",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "Hub Closes Strategic Acquisition of Hospitality Risk Specialists",
+      "tag": "M&A",
+      "date": "2026-02-28",
+      "summary": "Completed acquisition of InnKeepers Risk Services, deepening hotel, restaurant, and venue property and liquor liability expertise.",
+      "source_url": "https://en.wikipedia.org/wiki/Hub_International#Acquisitions",
+      "impact_score": 4,
+      "is_sample": true
+    }
+  ],
+  "battlecard_template": {
+    "headline": "PE-Backed Mid-Market Aggregator Scaling Specialized Industry Verticals",
+    "subtext": "Hub combines private equity capital backing with deep vertical specialization in hospitality, transportation, and construction middle-market accounts.",
+    "wins": [
+      {
+        "title": "Long-Term Strategic Partner vs. Private Equity Flipping",
+        "text": "Highlight our stable, long-term independent ownership against Hub's multi-sponsor private equity refinancing cycles.",
+        "source_url": "https://www.hubinternational.com/blog/"
+      },
+      {
+        "title": "Transparent Client-First Fee Advisory",
+        "text": "Position our unbundled fee transparency against Hub's proprietary product placement incentives and carrier overriding commissions.",
+        "source_url": "https://www.hubinternational.com/products/business-insurance/"
+      },
+      {
+        "title": "Bespoke Middle-Market Risk Engineering",
+        "text": "Provide tailored risk mitigation engineering instead of Hub's standardized, off-the-shelf automated risk checklists.",
+        "source_url": "https://en.wikipedia.org/wiki/Hub_International"
+      }
+    ],
+    "moves": [
+      {
+        "tag": "M&A",
+        "summary": "Acquired MilePost Fleet Insurance to strengthen national commercial transportation practice.",
+        "date": "2026-09-29",
+        "source_url": "https://www.hubinternational.com/blog/"
+      },
+      {
+        "tag": "Product",
+        "summary": "Expanded VIU by HUB digital platform into small-business commercial auto and BOP coverage.",
+        "date": "2026-08-25",
+        "source_url": "https://www.hubinternational.com/products/business-insurance/"
+      },
+      {
+        "tag": "Leadership",
+        "summary": "Appointed Elena Rostova as CIO to drive automated digital workflow across broker branches.",
+        "date": "2026-07-11",
+        "source_url": "https://en.wikipedia.org/wiki/Hub_International"
+      }
+    ]
+  }
+}

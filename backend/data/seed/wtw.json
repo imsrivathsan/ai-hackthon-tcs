@@ -1,0 +1,99 @@
+{
+  "competitor": {
+    "id": "wtw",
+    "name": "Willis Towers Watson",
+    "ticker": "WTW",
+    "description": "Global advisory, broking, and solutions company providing data-driven, insight-led solutions across people, risk, and capital.",
+    "website": "https://www.wtwco.com",
+    "headquarters": "London, UK",
+    "market_cap_tier": "Large-Cap"
+  },
+  "items": [
+    {
+      "title": "WTW Launches Neuron Digital Placement Engine for Excess Casualty",
+      "tag": "Product",
+      "date": "2026-09-28",
+      "summary": "Introduced Neuron Casualty, an algorithmic marketplace platform automating quote comparison and binder execution with top 10 excess casualty underwriters.",
+      "source_url": "https://en.wikipedia.org/wiki/WTW_(company)",
+      "impact_score": 4,
+      "is_sample": true
+    },
+    {
+      "title": "WTW Expands Aviation and Aerospace Broking Practice Leadership",
+      "tag": "Leadership",
+      "date": "2026-07-20",
+      "summary": "Appointed Marcus Vance as North American Aviation Practice Leader to capture growing unmanned aerial systems and commercial space launch risks.",
+      "source_url": "https://www.insurancejournal.com/news/national/",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "WTW Commercial Lines Insurance Pricing Survey Notes Rate Moderation",
+      "tag": "Pricing",
+      "date": "2026-06-11",
+      "summary": "WTW CLIPS index showed aggregate commercial line prices rose by 4.1%, with workers' compensation continuing multi-year rate reductions.",
+      "source_url": "https://www.wtwco.com/en-us",
+      "impact_score": 2,
+      "is_sample": true
+    },
+    {
+      "title": "WTW Acquires Financial Lines Managing General Agency Verus Specialty",
+      "tag": "M&A",
+      "date": "2026-04-05",
+      "summary": "Acquired boutique underwriting agency Verus Specialty to strengthen cyber, transactional liability, and professional indemnity underwriting.",
+      "source_url": "https://en.wikipedia.org/wiki/WTW_(company)#History",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "WTW Closes Deal for Pension & Executive Benefits Consultancy",
+      "tag": "M&A",
+      "date": "2025-12-18",
+      "summary": "Broadened human capital advisory operations by acquiring New England corporate retirement advisory firm.",
+      "source_url": "https://www.wtwco.com",
+      "impact_score": 3,
+      "is_sample": true
+    }
+  ],
+  "battlecard_template": {
+    "headline": "Digital Broking Platform Neuron Drives Complex Placement Differentiation",
+    "subtext": "WTW continues heavy investment in Neuron algorithmic placement platforms while reinforcing specialty practices across human capital and financial lines.",
+    "wins": [
+      {
+        "title": "Holistic Relationship Over Algorithmic Matching",
+        "text": "Frame WTW's automated Neuron platform as cold carrier syndication versus our consultative underwriter negotiation.",
+        "source_url": "https://en.wikipedia.org/wiki/WTW_(company)"
+      },
+      {
+        "title": "Middle-Market Commercial P&C Focus",
+        "text": "Target mid-sized commercial accounts where WTW's focus leans disproportionately toward large institutional corporate risk.",
+        "source_url": "https://www.insurancejournal.com/news/national/"
+      },
+      {
+        "title": "Personalized Claims Advocacy",
+        "text": "Offer hands-on in-house claims advocacy specialists whereas WTW frequently utilizes offshore claims clearing desks for standard claims.",
+        "source_url": "https://www.wtwco.com/en-us"
+      }
+    ],
+    "moves": [
+      {
+        "tag": "Product",
+        "summary": "Introduced Neuron Casualty algorithmic platform connecting underwriters for excess commercial lines.",
+        "date": "2026-09-28",
+        "source_url": "https://en.wikipedia.org/wiki/WTW_(company)"
+      },
+      {
+        "tag": "Leadership",
+        "summary": "Hired Marcus Vance to lead North American aviation and aerospace practice.",
+        "date": "2026-07-20",
+        "source_url": "https://www.insurancejournal.com/news/national/"
+      },
+      {
+        "tag": "M&A",
+        "summary": "Acquired boutique underwriting agency Verus Specialty for financial lines coverage.",
+        "date": "2026-04-05",
+        "source_url": "https://www.wtwco.com/en-us"
+      }
+    ]
+  }
+}

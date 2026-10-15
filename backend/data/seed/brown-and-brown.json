@@ -1,0 +1,99 @@
+{
+  "competitor": {
+    "id": "brown-and-brown",
+    "name": "Brown & Brown",
+    "ticker": "BRO",
+    "description": "Premier insurance brokerage firm providing risk management solutions, operating decentralized entrepreneurial branches.",
+    "website": "https://www.bbinsurance.com",
+    "headquarters": "Daytona Beach, FL",
+    "market_cap_tier": "Mid-Cap"
+  },
+  "items": [
+    {
+      "title": "Brown & Brown Closes Purchase of Florida Coastal Property Specialist",
+      "tag": "M&A",
+      "date": "2026-09-18",
+      "summary": "Acquired Gulf Coast Coastal Underwriters, adding dedicated hurricane and flood binding authorities across 8 coastal states.",
+      "source_url": "https://bbinsurance.com/news/",
+      "impact_score": 4,
+      "is_sample": true
+    },
+    {
+      "title": "Brown & Brown Programs Division Unveils National Habitational Program",
+      "tag": "Product",
+      "date": "2026-08-11",
+      "summary": "Introduced nationwide multi-family habitational property facility with $150M syndicate capacity backed by Lloyd's.",
+      "source_url": "https://en.wikipedia.org/wiki/Brown_%26_Brown",
+      "impact_score": 4,
+      "is_sample": true
+    },
+    {
+      "title": "Brown & Brown Appoints New President of Retail Brokerage Segment",
+      "tag": "Leadership",
+      "date": "2026-06-25",
+      "summary": "Promoted Steve Hearn to President of Retail Brokerage to deepen middle-market accounts and decentralized sales accountability.",
+      "source_url": "https://bbinsurance.com",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "Brown & Brown Quarterly E&S Index Reflects Coastal Property Pricing Strains",
+      "tag": "Pricing",
+      "date": "2026-04-14",
+      "summary": "Wholesale index tracked 9.8% rate gains in coastal commercial habitational risks with increasing mandatory deductible percentages.",
+      "source_url": "https://en.wikipedia.org/wiki/Brown_%26_Brown#Acquisitions",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "Brown & Brown Acquires Automotive Dealership F&I Administrator",
+      "tag": "M&A",
+      "date": "2026-01-22",
+      "summary": "Expanded automotive warranty and finance & insurance advisory via acquisition of Apex Dealer Solutions.",
+      "source_url": "https://bbinsurance.com/careers/",
+      "impact_score": 3,
+      "is_sample": true
+    }
+  ],
+  "battlecard_template": {
+    "headline": "Decentralized Sales Culture Excels in E&S Programs and Niche Industries",
+    "subtext": "Brown & Brown pairs high-commission entrepreneurial local offices with dominant wholesale binding authority in property, automotive, and programs.",
+    "wins": [
+      {
+        "title": "National Scale with Unified Technology",
+        "text": "Pitch our consolidated client digital risk portal against Brown & Brown's disparate legacy systems across acquired offices.",
+        "source_url": "https://bbinsurance.com/news/"
+      },
+      {
+        "title": "Transparent Commission vs. High Broker Spreads",
+        "text": "Demonstrate fee clarity against B&B's aggressive commission and wholesale program spread structures.",
+        "source_url": "https://en.wikipedia.org/wiki/Brown_%26_Brown"
+      },
+      {
+        "title": "Dedicated Enterprise Claims Management",
+        "text": "Win accounts frustrated with B&B branch-level variance in claims handling by highlighting our centralized claims legal team.",
+        "source_url": "https://bbinsurance.com"
+      }
+    ],
+    "moves": [
+      {
+        "tag": "M&A",
+        "summary": "Acquired Gulf Coast Coastal Underwriters adding specialized coastal binding authority.",
+        "date": "2026-09-18",
+        "source_url": "https://bbinsurance.com/news/"
+      },
+      {
+        "tag": "Product",
+        "summary": "Launched national multi-family habitational property program with Lloyd's syndicate backing.",
+        "date": "2026-08-11",
+        "source_url": "https://en.wikipedia.org/wiki/Brown_%26_Brown"
+      },
+      {
+        "tag": "Leadership",
+        "summary": "Named Steve Hearn as President of Retail Brokerage to drive middle-market growth.",
+        "date": "2026-06-25",
+        "source_url": "https://bbinsurance.com"
+      }
+    ]
+  }
+}

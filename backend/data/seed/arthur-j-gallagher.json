@@ -1,0 +1,108 @@
+{
+  "competitor": {
+    "id": "arthur-j-gallagher",
+    "name": "Arthur J. Gallagher & Co.",
+    "ticker": "AJG",
+    "description": "One of the world's largest insurance brokerage, risk management, and consulting firms, known for high acquisition volume.",
+    "website": "https://www.ajg.com",
+    "headquarters": "Rolling Meadows, IL",
+    "market_cap_tier": "Large-Cap"
+  },
+  "items": [
+    {
+      "title": "Gallagher Announces Agreement to Acquire Eastern Commercial Brokerage Group",
+      "tag": "M&A",
+      "date": "2026-10-02",
+      "summary": "Gallagher signed definitive deal to acquire Pennsylvania-based commercial brokerage network with $42M annual revenue across manufacturing and logistics.",
+      "source_url": "https://investor.ajg.com",
+      "impact_score": 5,
+      "is_sample": true
+    },
+    {
+      "title": "Gallagher Expands Midwest Public Entity Practice with Municipal Deal",
+      "tag": "M&A",
+      "date": "2026-09-08",
+      "summary": "Acquired specialized municipal risk consultancy managing self-insurance pools for 60 Midwestern school districts and townships.",
+      "source_url": "https://en.wikipedia.org/wiki/Arthur_J._Gallagher_%26_Co.",
+      "impact_score": 4,
+      "is_sample": true
+    },
+    {
+      "title": "Gallagher Launches Gallagher CORE Specialty Placement Facility",
+      "tag": "Product",
+      "date": "2026-08-19",
+      "summary": "Unveiled Gallagher CORE, a wholesale and retail co-placement facility dedicated to hard-to-place casualty and habitational real estate risks.",
+      "source_url": "https://www.ajg.com",
+      "impact_score": 4,
+      "is_sample": true
+    },
+    {
+      "title": "Gallagher Promotes David Kroll to Regional Managing Director",
+      "tag": "Leadership",
+      "date": "2026-07-15",
+      "summary": "David Kroll elevated to manage commercial brokerage operations across the Mid-Atlantic, prioritizing M&A integration across 14 acquired agencies.",
+      "source_url": "https://en.wikipedia.org/wiki/Arthur_J._Gallagher_%26_Co.#Operations",
+      "impact_score": 3,
+      "is_sample": true
+    },
+    {
+      "title": "Gallagher Completes Acquisition of Texas Energy Specialty Broker",
+      "tag": "M&A",
+      "date": "2026-05-10",
+      "summary": "Finalized purchase of Houston-based energy broker specializing in upstream oilfield contractor liabilities and environmental impairment.",
+      "source_url": "https://investor.ajg.com",
+      "impact_score": 4,
+      "is_sample": true
+    },
+    {
+      "title": "Gallagher Market Update Notes Hardening Excess Liability Renewals",
+      "tag": "Pricing",
+      "date": "2026-03-30",
+      "summary": "Gallagher's quarterly market report observed 15% rate increases on corporate umbrella layers exceeding $25M due to nuclear verdicts.",
+      "source_url": "https://investor.ajg.com",
+      "impact_score": 3,
+      "is_sample": true
+    }
+  ],
+  "battlecard_template": {
+    "headline": "Relentless M&A Engine Expanding Regional Commercial Density",
+    "subtext": "Gallagher maintains industry-leading acquisition cadence, rolling up regional middle-market agencies and cross-selling RPS wholesale capacity.",
+    "wins": [
+      {
+        "title": "Account Retention During Post-Merger Turmoil",
+        "text": "Target accounts of recently acquired Gallagher agencies where staff turnover and systems integration cause client communication lags.",
+        "source_url": "https://investor.ajg.com"
+      },
+      {
+        "title": "Transparent Retail Wholesale Separation",
+        "text": "Expose potential conflict of interest between Gallagher's retail arm and internal wholesale broker (Risk Placement Services).",
+        "source_url": "https://en.wikipedia.org/wiki/Arthur_J._Gallagher_%26_Co."
+      },
+      {
+        "title": "Tailored High-Touch Risk Control",
+        "text": "Differentiate with customized on-site safety programs rather than standardized Gallagher compliance templates.",
+        "source_url": "https://www.ajg.com"
+      }
+    ],
+    "moves": [
+      {
+        "tag": "M&A",
+        "summary": "Signed definitive agreement to acquire Eastern Commercial Brokerage Group ($42M revenue).",
+        "date": "2026-10-02",
+        "source_url": "https://investor.ajg.com"
+      },
+      {
+        "tag": "M&A",
+        "summary": "Acquired specialized municipal risk consultancy managing school district pools in Midwest.",
+        "date": "2026-09-08",
+        "source_url": "https://en.wikipedia.org/wiki/Arthur_J._Gallagher_%26_Co."
+      },
+      {
+        "tag": "Product",
+        "summary": "Launched Gallagher CORE facility for hard-to-place casualty and habitational real estate.",
+        "date": "2026-08-19",
+        "source_url": "https://www.ajg.com"
+      }
+    ]
+  }
+}

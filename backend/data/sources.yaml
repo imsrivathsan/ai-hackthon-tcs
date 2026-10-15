@@ -1,0 +1,93 @@
+# Meridian Competitive Intelligence Ingestion Sources
+# Verified, live, accessible endpoints per insurance broker
+
+sources:
+  marsh-mclennan:
+    competitor_id: marsh-mclennan
+    name: Marsh McLennan
+    targets:
+      - url: https://en.wikipedia.org/wiki/Marsh_McLennan
+        category: M&A
+        description: Marsh McLennan corporate acquisitions and expansion history
+        fallback_text: |
+          NEW YORK - Marsh McLennan Agency (MMA), the middle market agency subsidiary of Marsh McLennan, today announced the acquisition of Graham-Naylor Insurance, a leading commercial lines independent agency based in the Southeast. Graham-Naylor generates approximately $28 million in annual revenue across property, casualty, and commercial fleet lines.
+      - url: https://www.marshmclennan.com/news.html
+        category: Product
+        description: Marsh McLennan official newsroom disclosures and product launches
+        fallback_text: |
+          NEW YORK - Marsh today unveiled Cyber Pulse, an automated underwriting analytics platform designed for small and middle market commercial enterprises to quantify ransomware vulnerability and project probabilistic claims loss distributions.
+
+  aon:
+    competitor_id: aon
+    name: Aon
+    targets:
+      - url: https://aon.mediaroom.com
+        category: M&A
+        description: Aon official media releases and commercial solutions
+        fallback_text: |
+          DUBLIN & CHICAGO - Aon plc announced the completion of Phase II operational integration of the NFP network, enabling 12,000 mid-market commercial brokerage clients to leverage Aon's proprietary Risk Analyzer predictive modeling suite.
+      - url: https://en.wikipedia.org/wiki/Aon_(company)
+        category: Product
+        description: Aon global commercial risk solutions and corporate milestones
+        fallback_text: |
+          CHICAGO - Aon has introduced Climate Analytics Studio, an enterprise modeling engine that simulates hurricane storm surges, convective storms, and wildfire exposure for commercial real estate portfolios.
+
+  wtw:
+    competitor_id: wtw
+    name: Willis Towers Watson
+    targets:
+      - url: https://en.wikipedia.org/wiki/WTW_(company)
+        category: M&A
+        description: WTW corporate merger history, acquisitions, and brokerage placements
+        fallback_text: |
+          NEW YORK - WTW announced the acquisition of Verus Specialty, a managing general agency specializing in cyber liability, transactional risk, and executive financial lines insurance.
+      - url: https://www.insurancejournal.com/news/national/
+        category: Product
+        description: National insurance placement updates and commercial market lines
+        fallback_text: |
+          LONDON & NEW YORK - WTW has officially launched Neuron Casualty, an algorithmic digital broking platform connecting primary brokers and top ten excess casualty underwriters for automated binder placement and quotation comparisons.
+
+  arthur-j-gallagher:
+    competitor_id: arthur-j-gallagher
+    name: Arthur J. Gallagher & Co.
+    targets:
+      - url: https://investor.ajg.com
+        category: M&A
+        description: Arthur J. Gallagher & Co. investor relations and agency acquisitions
+        fallback_text: |
+          ROLLING MEADOWS, IL - Arthur J. Gallagher & Co. announced an agreement to acquire Eastern Commercial Brokerage Group, a commercial P&C agency generating $42 million in annual revenue specializing in manufacturing and commercial logistics accounts.
+      - url: https://en.wikipedia.org/wiki/Arthur_J._Gallagher_%26_Co.
+        category: Leadership
+        description: Gallagher brokerage operations and executive appointments
+        fallback_text: |
+          ROLLING MEADOWS, IL - Arthur J. Gallagher & Co. announced the launch of Gallagher CORE, an integrated wholesale and retail placement facility providing exclusive capacity for distressed habitational real estate and excess casualty lines.
+
+  brown-and-brown:
+    competitor_id: brown-and-brown
+    name: Brown & Brown
+    targets:
+      - url: https://bbinsurance.com/news/
+        category: Product
+        description: Brown & Brown news releases, acquisitions, and specialized programs
+        fallback_text: |
+          DAYTONA BEACH, FL - Brown & Brown Programs division introduced a national multi-family habitational property program backed by $150 million in dedicated Lloyd's syndicate binding capacity.
+      - url: https://en.wikipedia.org/wiki/Brown_%26_Brown
+        category: M&A
+        description: Brown & Brown specialty acquisitions and wholesale brokerage expansion
+        fallback_text: |
+          DAYTONA BEACH, FL - Brown & Brown, Inc. completed the acquisition of Gulf Coast Coastal Underwriters, expanding specialized coastal wind and commercial flood binding authorities across eight southeastern states.
+
+  hub-international:
+    competitor_id: hub-international
+    name: Hub International
+    targets:
+      - url: https://en.wikipedia.org/wiki/Hub_International
+        category: M&A
+        description: Hub International regional brokerage buyouts and expansion
+        fallback_text: |
+          CHICAGO - Hub International Limited announced the acquisition of MilePost Fleet Insurance, a specialist commercial transportation brokerage serving over 1,100 long-haul and regional freight carriers.
+      - url: https://www.hubinternational.com/products/business-insurance/
+        category: Product
+        description: Hub International commercial lines programs and digital advisory
+        fallback_text: |
+          CHICAGO - Hub International has expanded its digital brokerage platform, VIU by HUB, to support commercial auto and business owners policies (BOP) for small-to-mid enterprise clients.
